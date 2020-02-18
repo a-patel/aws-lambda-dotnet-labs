@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.SQS", "AwsLam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.SNS", "AwsLambdaLabs.SNS\AwsLambdaLabs.SNS.csproj", "{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.DynamoDB", "AwsLambdaLabs.DynamoDB\AwsLambdaLabs.DynamoDB.csproj", "{830AEB85-C83B-47DA-BE1E-BA4E600F4620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830AEB85-C83B-47DA-BE1E-BA4E600F4620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830AEB85-C83B-47DA-BE1E-BA4E600F4620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830AEB85-C83B-47DA-BE1E-BA4E600F4620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830AEB85-C83B-47DA-BE1E-BA4E600F4620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
