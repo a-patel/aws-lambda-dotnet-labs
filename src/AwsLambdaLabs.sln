@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.S3", "AwsLamb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.SQS", "AwsLambdaLabs.SQS\AwsLambdaLabs.SQS.csproj", "{EBFD7884-8E41-49C4-89D0-C96DBC883796}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaLabs.SNS", "AwsLambdaLabs.SNS\AwsLambdaLabs.SNS.csproj", "{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EBFD7884-8E41-49C4-89D0-C96DBC883796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFD7884-8E41-49C4-89D0-C96DBC883796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFD7884-8E41-49C4-89D0-C96DBC883796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6441AC6-9A66-4F57-92D1-66E99B23AA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
